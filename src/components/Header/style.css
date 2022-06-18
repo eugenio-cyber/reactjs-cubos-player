@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 32px;
+  margin-bottom: 90px;
+  border-bottom: 1px solid #6a6363;
+  font-family: "Roboto", sans-serif;
+}
+
+.header__welcome {
+  display: flex;
+  align-items: center;
+}
+
+.header__profile {
+  width: 40px;
+  margin-right: 8px;
+  border-radius: 50%;
+  border: 2px solid #6a6363;
+}
+
+.header__title {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+}

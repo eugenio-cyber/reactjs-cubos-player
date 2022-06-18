@@ -1,0 +1,94 @@
+.footer {
+  display: flex;
+  align-items: flex-start;
+  height: 132px;
+  padding: 24px 32px;
+  border: 2px solid rgba(0, 0, 0, 0.21);
+  font-family: "Roboto", sans-serif;
+  background: linear-gradient(180deg, #383535 0%, rgba(133, 130, 130, 0) 100%);
+}
+
+.footer__names {
+  display: flex;
+  flex-direction: column;
+  width: 221px;
+  margin-right: 146px;
+  margin-bottom: 8px;
+  color: #ffffff;
+}
+
+.footer__music {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.footer__author {
+  margin: 0;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.footer__buttons {
+  display: flex;
+  gap: 40px;
+}
+
+.footer__img {
+  cursor: pointer;
+  width: 48px;
+}
+
+.footer__controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 500px;
+}
+
+.bar__progress {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.bar__progress input {
+  --seek-width: 100px;
+  appearance: none;
+  outline: none;
+  overflow: hidden;
+  width: 100%;
+  height: 6px;
+  border-radius: 15px;
+  background: #ccc3c3;
+}
+
+.bar__progress input::-webkit-slider-thumb {
+  outline: none;
+  cursor: pointer;
+  appearance: none;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  box-shadow: -407px 0 0 400px #e5007b;
+  background: #e5007b;
+}
+
+.bar__progress input::before {
+  width: var(--seek-width);
+}
+
+.bar__time {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ccc3c3;
+}
