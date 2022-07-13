@@ -14,11 +14,11 @@
 
 ## 🏹 Qual o objetivo do projeto?
 
-...
+O objetivo desse projeto...
 
 ## 💻 Como usar?
 
-...
+Para usar você...
 
 ## 🛠️ Ferramentas utilizadas?
 
