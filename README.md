@@ -4,21 +4,21 @@
   
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/status-concluído-green?style=for-the-badge"/>
 </p>
 <br>
 
 ## 🔗 Quer acessar o projeto?
 
-[Clique aqui para ver]()
+[Clique aqui para ver](https://reactjs-hooks-cubos-player.vercel.app/)
 
 ## 🏹 Qual o objetivo do projeto?
 
-O objetivo desse projeto...
+O objetivo desse projeto foi desenvolver um player de músicas. Além de treinar meus conhecimentos em estados (useState), referẽncias (useRef), eventos e props com o ReactJS.
 
 ## 💻 Como usar?
 
-Para usar você...
+Para usar basta você selecionar uma das músicas que apaecem, feito isso você consegui pausar, passar, voltar, reiniciar e escolher a partir de qual tempo quer ouvir a m
 
 ## 🛠️ Ferramentas utilizadas?
 
