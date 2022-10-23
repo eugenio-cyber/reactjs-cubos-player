@@ -30,7 +30,7 @@ Para usar basta você selecionar uma das músicas que apaecem, feito isso você 
   <img height=30 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-## ⛏️ Recursos futuros:
+## ⛏️ Feature:
 
 - [ ] Responsividade
 
